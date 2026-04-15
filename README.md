@@ -4,7 +4,7 @@
 🎓 3rd Year ECE Student  
 💡 Passionate about IoT, AI & Full Stack Development  
 🚀 Currently building: AI Thumbnail Generator  
-📫 How to reach me: your-suraj7829751424@gmail.com
+📫 How to reach me:suraj7829751424@gmail.com
 
 ## 🛠️ Tech Stack
 
