@@ -6,7 +6,7 @@
 🚀 Currently building: AI Thumbnail Generator  
 📫 How to reach me:suraj7829751424@gmail.com
 
- ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+ ![Stats](https://github-readme-stats.vercel.app/api?username=surajpawar&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
