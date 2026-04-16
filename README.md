@@ -3,7 +3,7 @@
 🎓 3rd Year ECE Student  
 💡 Passionate about AI, Full Stack Development & Embedded Systems  
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
-📫 How to reach me: suraj 7829751424@gmail.com  
+📫 How to reach me: suraj7829751424@gmail.com  
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Surajpawar&show_icons=true&theme=tokyonight)
 
