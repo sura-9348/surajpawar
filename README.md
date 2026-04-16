@@ -3,9 +3,9 @@
 🎓 3rd Year ECE Student  
 💡 Passionate about AI, Full Stack Development & Embedded Systems  
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
-📫 How to reach me: samathakesti@gmail.com  
+📫 How to reach me: suraj 7829751424@gmail.com  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Suraj Pawar&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Surajpawar&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -54,4 +54,4 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj pawar &theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajpawar &theme=tokyonight)
