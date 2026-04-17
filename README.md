@@ -54,4 +54,4 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajpawar &theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajpawar&theme=tokyonight)
